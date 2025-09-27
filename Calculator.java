@@ -1,10 +1,3 @@
-/*
-import java.awt.*; //Abstract Windows Toolkit, a set a Java APIs for creating graphical user interfaces (buttons, etxt, layou, images, etc.)
-import java.awt.event.*; //Handling events in GUI applications (button clicks, mouse movement, etc.)
-import java.util.Arrays; //Provides common operations on arrays, makes it easier to work with them
-import javax.swing.*; //Used for building GUIs
-import javax.swing.border.LineBorder; //Creates a border around a Swing component
- */
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
@@ -249,5 +242,6 @@ public class Calculator {
     }
 }
     
+
 
 
